@@ -1,3 +1,6 @@
 [submodule "game/data/RPGStarterAssets"]
 	path = game/data/RPGStarterAssets
 	url = https://github.com/Bloodknight/RPGStarterAssets.git
+[submodule "game/data/RPGGameplay"]
+	path = game/data/RPGGameplay
+	url = https://github.com/Bloodknight/RPGGameplay.git
