@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="UTF-8" standalone ="yes"?>
 <EditorSettings>
     <Group
         name="AssetBrowser">
@@ -39,7 +39,9 @@
         <Group
             name="Browser">
             <Setting
-				name="doubleClickAction">Edit Asset</Setting>
+                name="doubleClickAction">Edit Asset</Setting>
+            <Setting
+                name="LastPosExt">233 55 1064 911</Setting>
             <Setting
                 name="previewTileSize">1</Setting>
             <Setting
@@ -366,7 +368,7 @@
         <Setting
             name="forceSidebarToSide">1</Setting>
         <Setting
-            name="orthoFOV">4.60158</Setting>
+            name="orthoFOV">1.10279238</Setting>
         <Setting
             name="orthoShowGrid">1</Setting>
         <Setting
@@ -419,11 +421,9 @@
         <Group
             name="Images">
             <Setting
-                name="defaultHandle">tools/worldEditor/images/DefaultHandle</Setting>
+                name="defaultHandle">ToolsModule:DefaultHandle_image</Setting>
             <Setting
-                name="lockedHandle">tools/worldEditor/images/LockedHandle</Setting>
-            <Setting
-                name="selectHandle">tools/worldEditor/images/SelectHandle</Setting>
+                name="selectHandle">ToolsModule:SelectHandle_image</Setting>
         </Group>
         <Group
             name="Layout">

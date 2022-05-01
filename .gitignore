@@ -399,3 +399,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+game/data/cache/fonts
+*.dbc
+game/tools/resources/previewCache
+*.cached.dts
